@@ -5,7 +5,7 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   redirects: {
-    "/discord": "https://discord.gg/awfixer",
+    "/discord": "https://discord.gg/Fxkrf6Hqkj",
     "/patreon": "https://patreon.com/awfixer",
     "/github": "https://github.com/awfixer-org",
     "/terms": "https://legal.awfixer.com/terms",
