@@ -14,5 +14,6 @@ export default defineConfig({
     "/dev": "https://awfixer.dev",
     "/cloud": "https://awfixer.cloud",
     "/blog": "https://awfixer.blog",
+    "/cal": "https://cal.com/awfixer",
   },
 });
